@@ -30,8 +30,7 @@ namespace UploadImages
             bool upload1000 = choice == 2;
 
             UploadImages(upload1000);
-
-            Console.ReadLine();
+                        Console.ReadLine();
         }
 
         private static void UploadImages(bool upload1000)
